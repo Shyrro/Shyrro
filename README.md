@@ -5,7 +5,8 @@ I love FrontEnd Development. My efforts are mostly going towards [Vue](https://g
 
 I also give a special care to accessibility ♿ and automated testing 🧪. 
 
-I'm curious in general and i like to know what's happening outside of the frameworks i chose. That is why, my jobs are mostly with React ⚛️. I do think that every idea is worth taking, it just needs to be in the right place in the right time. 
+I'm curious in general and i like to know what's happening outside of the frameworks i chose. That is why, my jobs are mostly with React ⚛️. 
+I do think that every idea is worth taking, it just needs to be in the right place at the right time. 
 
 I also teach VueJS in a French University in Lille : https://www.fges.eu/
 
