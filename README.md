@@ -13,11 +13,9 @@ I also teach VueJS in a French University in Lille : https://www.fges.fr/ ( Fren
 ### 🌱 I’m currently working on :
 
 <a href="https://github.com/chakra-ui/chakra-ui-vue-next">
-  <img src="https://shyrro.me/imgs/chakra-ui-pin.PNG" alt="Chakra UI Vue next pin" width="430px" />
-</a>
-
-<a href="https://github.com/Shyrro/Sally">
-  <img src="https://shyrro.me/imgs/Sally-pin.PNG" alt="Sally Svelte project pin, an accessible Svelte UI framework" width="430px" />
+  <img src="https://shyrro.me/imgs/chakra-ui-pin.PNG" alt="Chakra UI Vue next pin"  />
+</a><a href="https://github.com/Shyrro/Sally">
+  <img src="https://shyrro.me/imgs/Sally-pin.PNG" alt="Sally Svelte project pin, an accessible Svelte UI framework" />
 </a>
 
 
