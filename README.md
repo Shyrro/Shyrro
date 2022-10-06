@@ -7,16 +7,12 @@ I also give a special care to accessibility ♿ and automated testing 🧪.
 
 I'm curious in general and i like to know what's happening outside of the frameworks i chose. That is why, my jobs are mostly with React ⚛️. I do think that every idea is worth taking, it just needs to be in the right place in the right time. 
 
-I also teach VueJS in a French University in Lille : https://www.fges.fr/ ( French website )
+I also teach VueJS in a French University in Lille : https://www.fges.eu/
 
 
 ### 🌱 I’m currently working on :
 
-<a href="https://github.com/chakra-ui/chakra-ui-vue-next">
-  <img src="https://shyrro.me/imgs/chakra-ui-pin.PNG" alt="Chakra UI Vue next pin"  />
-</a><a href="https://github.com/Shyrro/Sally">
-  <img src="https://shyrro.me/imgs/Sally-pin.PNG" alt="Sally Svelte project pin, an accessible Svelte UI framework" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyrro&repo=chakra-ui-vue-next&theme=vue-dark)](https://github.com/chakra-ui/chakra-ui-vue-next)         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyrro&repo=Sally&theme=vue-dark)](https://github.com/Shyrro/Sally)
 
 
 ### 👀 I'm keeping an eye on : 
@@ -29,7 +25,7 @@ I also teach VueJS in a French University in Lille : https://www.fges.fr/ ( Fren
 
 I'm always open for a chat or to discuss an idea, you can DM me on Discord if you want to reach me. (Shyrro#9936)
 
-*Twitter is also a good place to reach me 😉 *
+*Twitter is also a good place to reach me 😉*
 
 
 
