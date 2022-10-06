@@ -28,7 +28,8 @@ I also teach VueJS in a French University in Lille : https://www.fges.fr/ ( Fren
 
 
 I'm always open for a chat or to discuss an idea, you can DM me on Discord if you want to reach me. (Shyrro#9936)
-*Twitter is also a good place to reach me ;) *
+
+*Twitter is also a good place to reach me 😉 *
 
 
 
