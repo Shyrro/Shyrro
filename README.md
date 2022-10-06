@@ -1,8 +1,10 @@
 ## 👋 Hi, I’m Zakaria but you can call me Zak
 *Also known by @Shyrro in social media.*
 
-I love FrontEnd Development. My efforts are mostly going towards [Vue](https://github.com/vuejs/vue) 💚 and [Svelte](https://github.com/sveltejs/svelte) 🔥 . 
+I love FrontEnd Development. My efforts are mostly going towards [Vue](https://github.com/vuejs/vue) 💚 and [Svelte](https://github.com/sveltejs/svelte) 🔥 .
+
 I also give a special care to accessibility ♿ and automated testing 🧪. 
+
 I'm curious in general and i like to know what's happening outside of the frameworks i chose. That is why, my jobs are mostly with React ⚛️. I do think that every idea is worth taking, it just needs to be in the right place in the right time. 
 
 I also teach VueJS in a French University in Lille : https://www.fges.fr/ ( French website )
@@ -11,11 +13,11 @@ I also teach VueJS in a French University in Lille : https://www.fges.fr/ ( Fren
 ### 🌱 I’m currently working on :
 
 <a href="https://github.com/chakra-ui/chakra-ui-vue-next">
-  <img src="https://shyrro.me/imgs/chakra-ui-pin.PNG" alt="Chakra UI Vue next pin" />
+  <img src="https://shyrro.me/imgs/chakra-ui-pin.PNG" alt="Chakra UI Vue next pin" width="430px" />
 </a>
 
 <a href="https://github.com/Shyrro/Sally">
-  <img src="https://shyrro.me/imgs/Sally-pin.PNG" alt="Sally Svelte project pin, an accessible Svelte UI framework" />
+  <img src="https://shyrro.me/imgs/Sally-pin.PNG" alt="Sally Svelte project pin, an accessible Svelte UI framework" width="430px" />
 </a>
 
 
